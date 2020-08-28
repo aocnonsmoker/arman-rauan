@@ -31,13 +31,13 @@
 
 	    if(days!=0){
 		    html+="<div class='countdown-container days'>"
-		    	html+="<span class='countdown-heading days-top'>Дней</span>";
+		    	html+="<span class='countdown-heading days-top'>Күн</span>";
 		    	html+="<span class='countdown-value days-bottom'>"+pad(days)+"</span>";
 		    html+="</div>";
 		}
 
 	    html+="<div class='countdown-container hours'>"
-	    	html+="<span class='countdown-heading hours-top'>Часов</span>";
+	    	html+="<span class='countdown-heading hours-top'>Сағат</span>";
 	    	html+="<span class='countdown-value hours-bottom'>"+pad(hours)+"</span>";
 	    html+="</div>";
 
