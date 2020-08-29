@@ -1462,10 +1462,13 @@ h1, h2, h3, h4, h5,
         border-color: transparent;
         margin-right: 10px; }
 .invite_text {
-  font-family: 'Cormorant Upright', serif;
+  font-family: 'Cuprum', sans-serif;
   color: #000;
 }
 .google_map {
   width: 90%;
   height: 98vh;
+}
+.poetic {
+  font-family: 'Dancing Script', cursive;
 }
